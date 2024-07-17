@@ -4,5 +4,5 @@
 
 ## Introduction
 
- Build a Complex Expense Budget Tracker. Used State Management in React, Context API, Local Storage, Material UI, and how to create a scalable React folder structure and most improtantly we added voice capabilities.
+ Build a Complex Expense Budget Tracker. Used State Management in React, Context API, Local Storage, Material UI, and  create a scalable React folder structure and most improtantly we added voice capabilities.
 
